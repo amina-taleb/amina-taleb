@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina-taleb&show_icons=true)
 ## Hi there 👋
 
 <!--
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chien](https://th.bing.com/th?id=OIP.Jf0NnGpH2AhNM3BtwZufwwHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2)
+

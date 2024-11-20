@@ -1,3 +1,5 @@
+![image1](amina-taleb/ressources1/image1.jpg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina-taleb&show_icons=true&bg_color=90,228B22,7CFC00,FFD700,87CEEB,4682B4)
 
 

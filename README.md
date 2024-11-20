@@ -1,7 +1,4 @@
-<img align="center" alt="coding" width="1100" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper&psig=AOvVaw20FEKUmIvLV1Ae2wqL916_&ust=1732180571185000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCqodTJ6okDFQAAAAAdAAAAABAg)">
-
-
-![image1](amina-taleb/ressources1/image1.jpg)
+<img align="center" alt="coding" width="1100" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina-taleb&show_icons=true&bg_color=90,228B22,7CFC00,FFD700,87CEEB,4682B4)
 

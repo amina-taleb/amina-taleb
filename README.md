@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s">
+<img align="center" alt="coding" width="1100" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloper&psig=AOvVaw20FEKUmIvLV1Ae2wqL916_&ust=1732180571185000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCqodTJ6okDFQAAAAAdAAAAABAg)">
 
 
 ![image1](amina-taleb/ressources1/image1.jpg)

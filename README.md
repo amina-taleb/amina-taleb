@@ -1,3 +1,5 @@
+<img align="center" alt="coding" width="1100" src="<https://tenor.com/fr/view/coding-girl-gif-2332171326726785246">
+
 # 💫 About Me:
 
 🔭 I’m currently working on developing skills in web development, artificial intelligence, and cybersecurity.  <br>

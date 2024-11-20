@@ -1,3 +1,6 @@
+<img align="center" alt="coding" width="1100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s">
+
+
 ![image1](amina-taleb/ressources1/image1.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amina-taleb&show_icons=true&bg_color=90,228B22,7CFC00,FFD700,87CEEB,4682B4)

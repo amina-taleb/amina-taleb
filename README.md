@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on developing skills in web development, artificial intelligence, and cybersecurity.  <br>👯 I’m looking to collaborate on projects that involve cutting-edge AI applications, secure web platforms, or innovative solutions in technology.  <br>🤝 I’m looking for help with finding an apprenticeship for September 2025 to deepen my expertise and gain hands-on experience.  <br>🌱 I’m currently learning advanced topics in digital technologies, including immersive systems and AI-driven applications.  <br>💬 Ask me about optical systems, nanotechnology, or how I blend science with creative pursuits like poetry.  <br>⚡ Fun fact: I enjoy exploring the intersection of technology and creativity, from coding to writing imaginative poetry!
+
+🔭 I’m currently working on developing skills in web development, artificial intelligence, and cybersecurity.  <br>
+
+👯 I’m looking to collaborate on projects that involve cutting-edge AI applications, secure web platforms, or innovative solutions in technology.  <br>
+
+🤝 I’m looking for an apprenticeship for September 2025 to deepen my expertise and gain hands-on experience.  <br>
+
+🌱 I’m currently learning ...
+
+💬 Ask me about ...
+
+⚡ Fun fact: I enjoy .....
 
 
 ## 🌐 Socials:

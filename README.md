@@ -2,17 +2,17 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on developing skills in web development, artificial intelligence, and cybersecurity.  <br>
+🔭 I’m currently working on developing skills in artificial intelligence, exploring its potential in innovative applications and solutions. <br>
 
-👯 I’m looking to collaborate on projects that involve cutting-edge AI applications, secure web platforms, or innovative solutions in technology.  <br>
+👯 I’m looking to collaborate on AI projects that push the boundaries of technology and bring impactful change. <br>
 
-🤝 I’m looking for an apprenticeship for September 2025 to deepen my expertise and gain hands-on experience.  <br>
+🤝 I’m looking for an apprenticeship for September 2025 to deepen my expertise and gain hands-on experience in the AI field. <br>
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning advanced AI techniques, including machine learning algorithms, neural networks, and natural language processing. <br>
 
-💬 Ask me about ...
+💬 Ask me about AI applications, machine learning, or the future of intelligent systems! <br>
 
-⚡ Fun fact: I enjoy .....
+⚡ Fun fact: I enjoy cooking and spending time with animals in my free time. <br>
 
 
 ## 🌐 Socials:

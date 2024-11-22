@@ -8,10 +8,6 @@
 
 🤝 I’m looking for an apprenticeship for September 2025 to deepen my expertise and gain hands-on experience in the AI field. <br>
 
-🌱 I’m currently learning advanced AI techniques, including machine learning algorithms, neural networks, and natural language processing. <br>
-
-💬 Ask me about AI applications, machine learning, or the future of intelligent systems! <br>
-
 ⚡ Fun fact: I enjoy cooking and spending time with animals in my free time. <br>
 
 
